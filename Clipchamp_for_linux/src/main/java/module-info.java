@@ -4,4 +4,6 @@ module com.arthur.clipchamp_for_linux {
 
     opens com.arthur.clipchamp_for_linux to javafx.fxml;
     exports com.arthur.clipchamp_for_linux;
+    requires javafx.baseEmpty;
+    requires javafx.web;
 }
