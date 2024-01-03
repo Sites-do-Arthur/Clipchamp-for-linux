@@ -1,0 +1,1 @@
+# Clipchamp-for-linux
