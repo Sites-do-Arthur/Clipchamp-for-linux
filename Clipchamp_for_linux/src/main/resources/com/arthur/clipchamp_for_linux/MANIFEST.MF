@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Arthur Henrique Schlikmann
+Package-Name: com.arthur.clipchamp_for_linux
+Main-Class: com.arthur.clipchamp_for_linux.App
