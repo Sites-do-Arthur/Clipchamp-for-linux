@@ -1,0 +1,15 @@
+{
+  "name": "clipchamp-for-linux",
+  "version": "0.0.1-alpha",
+  "description": "Editor de vídeo clipchamp da Microsoft portado para linux(não oficial)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Sites-do-Arthur/Clipchamp-for-linux"
+  },
+  "author": "Arthur Henrique Schlikmann (Sites do Arthur)",
+  "license": "MIT"
+}
